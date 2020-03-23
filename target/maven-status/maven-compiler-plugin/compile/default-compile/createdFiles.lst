@@ -1,0 +1,15 @@
+system\model\Dealer.class
+system\controller\ProductTypeController.class
+system\bl\Util.class
+system\dao\ProductDAO.class
+system\dao\ProdInPurchDAO.class
+system\service\ProductService.class
+system\dao\PurchaseDAO.class
+system\dao\DealerDao.class
+system\dao\ProductTypeDAO.class
+system\model\ProductType.class
+system\model\Product.class
+system\controller\ProductController.class
+system\model\ProdInPurch.class
+system\model\Purchase.class
+system\service\ProductTypeService.class
